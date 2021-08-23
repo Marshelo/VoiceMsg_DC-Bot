@@ -1,4 +1,4 @@
-## VoiceMsg-Dc_Bot
+## VoiceMsg_Dc-Bot
 El objetivo de este bot es permitirte **hablar cuando no tienes microfono**, o cualquier otra razón.
 ### **Guía usuarios:**
 Este bot soporta los siguientes comandos:

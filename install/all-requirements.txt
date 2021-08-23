@@ -7,5 +7,6 @@ npm install discord.js@12.5.3
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash
 (reload the console)
 nvm install 14.17.5
+git clone https://github.com/Marshelo/VoiceMsg_DC-Bot.git
 npm init -y
 npm install discord.js@12.5.3
