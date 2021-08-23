@@ -15,9 +15,11 @@ Este bot soporta los siguientes comandos:
 ### **Guía para host:**
 Los comandos para instalar las dependencias están en "all-requirements.txt".
 Agregue un archivo **"./config/token.json"** con el token de su bot de la siguiente manera:
-> {
+```json
+{
     "token": "su-token"
 }
+```
 
 Para iniciar el bot:
 ```sh
