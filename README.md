@@ -3,9 +3,9 @@ El objetivo de este bot es permitirte **hablar cuando no tienes microfono**, o c
 ### **Guía usuarios:**
 Este bot soporta los siguientes comandos:
 > no : *El bot no estará de acuerdo contigo.*
-yes : *El bot no estará de acuerdo contigo, otra vez*
-NO : *Lo mismo, pero esta vez enojado*
-YES : *Lo mismo, pero esta vez enojado*
+> yes : *El bot no estará de acuerdo contigo, otra vez*
+> NO : *Lo mismo, pero esta vez enojado*
+> YES : *Lo mismo, pero esta vez enojado*
 
 ------------
 
