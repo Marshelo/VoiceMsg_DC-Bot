@@ -1,6 +1,8 @@
 * Type in console (Windows):
+npm init -y
 npm install discord.js@12.5.3
 
 
 * Type in console (Linux):
+npm init -y
 npm install discord.js@12.5.3
