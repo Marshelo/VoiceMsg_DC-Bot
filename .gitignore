@@ -1,4 +1,10 @@
+# Node
 package.json
 package-lock.json
 node_modules
+
+# Configuración VS Code
+.vscode
+
+# Token del bot
 config/token.json
