@@ -1,0 +1,18 @@
+{
+    "yes": {
+        "word": "yes",
+        "description": "The Bot won't agree with you."
+    },
+    "no": {
+        "word": "no",
+        "description": "The Bot won't agree with you again."
+    },
+    "YES": {
+        "word": "YES",
+        "description": "NO."
+    },
+    "NO": {
+        "word": "NO",
+        "description": "YES"
+    }
+}
