@@ -23,5 +23,5 @@ Agregue un archivo **"./config/token.json"** con el token de su bot de la siguie
 
 Para iniciar el bot:
 ```sh
-node bot.js
+$ node bot.js
 ```
